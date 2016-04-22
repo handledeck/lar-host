@@ -1,0 +1,4 @@
+RewriteEngine on
+#DirectoryIndex server.php
+RewriteRule (.*) server.php
+
